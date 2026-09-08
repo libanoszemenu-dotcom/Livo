@@ -1,0 +1,28 @@
+{
+  "app": {
+    "name": "Chatify",
+    "login": "እቶ",
+    "logout": "ውጹ",
+    "signup": "ተመዝገቡ",
+    "email": "ኢመይል",
+    "password": "ምስጢር ቃል",
+    "username": "ስም",
+    "users": "ተጠቃሚታት",
+    "online": "ኣብ መስመር",
+    "offline": "ካብ መስመር ወጺኡ",
+    "messages": "መልእኽቲታት",
+    "no_messages": "መልእኽቲታት የለን",
+    "type_message": "መልእኽቲ ጽሓፉ...",
+    "send": "ሰዱ",
+    "select_user": "ተጠቃሚ ምረጹ",
+    "loading": "ይጸዓን ኣሎ...",
+    "no_users": "ተጠቃሚታት የለን"
+  },
+  "auth": {
+    "signup_success": "እንኳን ብድሓን መጻእኩም! 🎉",
+    "signup_error": "ምዝገባ ኣይተሳነን",
+    "login_success": "እንኳን ብድሓን መጻእኩም! 👋",
+    "login_error": "ምእታው ኣይተሳነን",
+    "logout_success": "ካብ ሓሳብኩም ወጺኹም!"
+  }
+}

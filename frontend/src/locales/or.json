@@ -1,0 +1,28 @@
+{
+  "app": {
+    "name": "Chatify",
+    "login": "Seenu",
+    "logout": "Ba'i",
+    "signup": "Galmaa'i",
+    "email": "Imeelii",
+    "password": "Jecha iccitii",
+    "username": "Maqaa",
+    "users": "Fayyadamtoota",
+    "online": "Sarara irra",
+    "offline": "Sarara ala",
+    "messages": "Ergawwan",
+    "no_messages": "Ergawwan hin jiran",
+    "type_message": "Ergaa barreessi...",
+    "send": "Ergi",
+    "select_user": "Fayyadamaa filadhu",
+    "loading": "Fe'aa jira...",
+    "no_users": "Fayyadamtoonni hin jiran"
+  },
+  "auth": {
+    "signup_success": "Baga nagaan dhufte! 🎉",
+    "signup_error": "Galmaa'uun hin milkaane",
+    "login_success": "Baga nagaan dhufte! 👋",
+    "login_error": "Seenuun hin milkaane",
+    "logout_success": "Galma keessan baatan!"
+  }
+}

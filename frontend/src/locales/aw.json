@@ -1,0 +1,28 @@
+{
+  "app": {
+    "name": "Chatify",
+    "login": "Gidile",
+    "logout": "K'asile",
+    "signup": "T'asile",
+    "email": "Imeel",
+    "password": "Gosat'wa",
+    "username": "S'uma",
+    "users": "Gidileta",
+    "online": "T'awa woyi",
+    "offline": "T'awa k'asile",
+    "messages": "Gosat'wa",
+    "no_messages": "Gosat'wa yelewam",
+    "type_message": "Gosat'wa ts'afe...",
+    "send": "Lak'e",
+    "select_user": "Gidile s'eme",
+    "loading": "T'awu...",
+    "no_users": "Gidileta yelewam"
+  },
+  "auth": {
+    "signup_success": "Hin'u yeluwa! 🎉",
+    "signup_error": "T'asile yelewam",
+    "login_success": "Hin'u yeluwa! 👋",
+    "login_error": "Gidile yelewam",
+    "logout_success": "Gidileta k'asilewa!"
+  }
+}
